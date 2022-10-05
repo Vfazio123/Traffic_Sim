@@ -8,6 +8,8 @@ Authors:
 * Travis Stop (tsop@highpoint.edu)
 * Blake Vogel (bvogel@highpoint.edu) 
 
--------------------------------------------------
+--------------------------------------------------------------------------------------------------
 This project scope was to encompass downtown highpoint. We quickly relized the scope of the project was too large and decided to
 reduce it to one intersection.
+--------------------------------------------------------------------------------------------------
+The current state of this project has no UI, but does feture text output proving a working intersection.
